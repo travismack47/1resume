@@ -5,9 +5,11 @@ body {
 h1 {
   font-family: arial, helvetica, sans-serif;
 }
+h1 {background-color: white}
 p {
   font-family: arial, helvetica, sans-serif;
 }
 h3 {
   font-family: arial, helvetica, sans-serif;
 }
+h3 {background-color: white}
